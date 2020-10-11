@@ -1,0 +1,24 @@
+.projects-link {
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.card-body {
+  margin-left: -20px;
+  margin-top: -10px;
+}
+
+.card-link {
+  color: black;
+  margin-right: 20px;
+  margin-left: 5px;
+}
+
+.card-link:hover {
+  border-bottom: 1px solid blue;
+}
+
+.card-text {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
