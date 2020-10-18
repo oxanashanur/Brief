@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./app-header.css";
-import foto from "./woman.png";
+import foto from "./oxana.jpeg";
 
 const AppHeader = () => {
   return (
