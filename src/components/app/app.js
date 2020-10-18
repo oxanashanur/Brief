@@ -12,9 +12,6 @@ const App = () => {
   return (
     <div className="app col-md-auto">
       <AppHeader />
-      <div className="social d-flex">
-        <Social />
-      </div>
       <div className="skills d-flex">
         <Skills />
       </div>
@@ -23,6 +20,9 @@ const App = () => {
       </div>
       <div className="projects d-flex">
         <Projects />
+      </div>
+      <div className="social d-flex">
+        <Social />
       </div>
     </div>
   );
