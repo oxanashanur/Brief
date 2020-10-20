@@ -9,6 +9,7 @@ const Skills = () => {
         <li>BEM</li>
         <li>SASS</li>
         <li>JSX</li>
+        <li>Bootstrap</li>
         <li>Javascript</li>
         <li>React / Redux</li>
       </ul>
