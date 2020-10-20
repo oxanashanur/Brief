@@ -7,7 +7,6 @@ const Tools = () => {
       <ul className="">
         <li>Github</li>
         <li>Git</li>
-        <li>Bootstrap</li>
         <li>Webpack</li>
         <li>Babel</li>
         <li>Styled Components</li>
