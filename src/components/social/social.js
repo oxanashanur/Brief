@@ -17,6 +17,11 @@ const Social = () => {
             oxanaboki@gmail.com
           </a>
         </li>
+        <li>
+          <a href="https://www.dropbox.com/s/f66ct5bqn57sg9v/bokievets-eng.pdf?dl=0" className="cv-link">
+            Download CV
+          </a>
+        </li>
       </ul>
     </div>
   );
