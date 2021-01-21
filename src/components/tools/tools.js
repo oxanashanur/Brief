@@ -3,7 +3,7 @@ import React from "react";
 const Tools = () => {
   return (
     <div>
-      <h2>Tools</h2>
+      <h2>My stack</h2>
       <ul className="">
         <li>Github</li>
         <li>Git</li>
@@ -13,6 +13,8 @@ const Tools = () => {
         <li>Fetch API</li>
         <li>React Strap</li>
         <li>React Router</li>
+        <li>Vue.js</li>
+        <li>Next.js</li>
         <li>NPM Prop-types</li>
         <li>Jest</li>
         <li>Enzyme</li>
