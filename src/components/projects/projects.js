@@ -15,11 +15,11 @@ const Projects = () => {
             <p className="card-text">Raiffeisenbank is a Russian commercial bank, a subsidiary of the Austrian banking group Raiffeisen Bank International.</p>
             <p className="card-text">In this project, I used Javascript, HTML5 + CSS3 responsive / adaptive, taking into account the peculiarities of different devices, experience of layout for Retina, font selection. Viewport of tablet, mobile phone, web version were made.</p>
             <img src={logo} alt="logo" width="12px" height="12px" />
-            <a href="https://map.vl.ru/app/" className="card-link">
+            <a href="https://bank-gilt.vercel.app/" className="card-link">
               Landing Page
             </a>
             <img src={logotype} alt="logo" width="12px" height="12px" />
-            <a href="https://github.com/oxanashanur/Map" className="card-link">
+            <a href="https://github.com/oxanashanur/Bank" className="card-link">
               GitHub Code
             </a>
           </div>
