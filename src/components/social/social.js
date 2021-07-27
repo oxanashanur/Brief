@@ -18,7 +18,7 @@ const Social = () => {
           </a>
         </li>
         <li>
-          <a href="https://www.dropbox.com/s/f66ct5bqn57sg9v/bokievets-eng.pdf?dl=0" className="card-link">
+          <a href="https://www.dropbox.com/s/e5rvp4r0snpkh2b/bokievets-eng.pdf?dl=0" className="card-link">
             Download CV
           </a>
         </li>
